@@ -1,2 +1,2 @@
-add_lunch_combo imx53_smd-eng
-add_lunch_combo imx53_smd-user
+add_lunch_combo omni_imx53_smd-eng
+add_lunch_combo omni_imx53_smd-userdebug
